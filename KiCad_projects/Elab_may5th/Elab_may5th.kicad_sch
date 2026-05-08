@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "15bb077a-ef74-4572-9278-85430d5c5532")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 35.56 33.02)
+		(size 26.67 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d887e5a-1b69-44d2-85ae-092847338a9e")
+		(property "Sheetname" "PS"
+			(at 35.56 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PS.kicad_sch"
+			(at 35.56 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Elab_may5th"
+				(path "/15bb077a-ef74-4572-9278-85430d5c5532"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 53.34)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "85dbcfcf-0af1-4c17-860e-4e43e1ad704b")
+		(property "Sheetname" "Signal_Amplifier"
+			(at 39.37 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Signal_Amplifier.kicad_sch"
+			(at 39.37 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Elab_may5th"
+				(path "/15bb077a-ef74-4572-9278-85430d5c5532"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
